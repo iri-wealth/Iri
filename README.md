@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iri-wealth
+- 👋 Hi, I’m Iri
 - 👀 I’m interested in web development including backend and frontend
-- 🌱 I’m currently learning python in addition to mysql, html, css and java
+- 🌱 Currently I develop applications in python, django with bootstrap
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me irina_kainz@yahoo.com
 
